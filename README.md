@@ -14,11 +14,13 @@ Il progetto nasce dall'esigenza reale di monitorare i tempi di lavorazione in un
 ##  Come avviare
 Assicurati di avere Python installato.
 
-```bash
-python taximeter.py
-
 ## Tecnologie
 Python 3.x
 Tkinter (GUI)
 
 Autore: Andrea Melissari
+
+```bash
+python taximeter.py
+
+
