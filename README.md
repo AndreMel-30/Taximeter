@@ -11,16 +11,19 @@ Il progetto nasce dall'esigenza reale di monitorare i tempi di lavorazione in un
 * **Interfaccia Intuitiva**: Pulsanti colorati e stati (abilitato/disabilitato) per prevenire errori logici.
 * **Gestione Input**: Supporta formati decimali con punto o virgola.
 
-##  Come avviare
-Assicurati di avere Python installato.
-
 ## Tecnologie
 Python 3.x
 Tkinter (GUI)
 
 Autore: Andrea Melissari
 
+##  Come avviare
+Assicurati di avere Python installato.
+
 ```bash
 python taximeter.py
+
+
+
 
 
