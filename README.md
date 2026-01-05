@@ -1,15 +1,15 @@
-#  Service Taximeter
+# Service Taximeter
 
-Una semplice applicazione desktop in Python (Tkinter) progettata per liberi professionisti e artigiani. Permette di tracciare il tempo impiegato su un lavoro e calcolare automaticamente il costo basandosi su una tariffa oraria.
+A simple desktop application built with Python (Tkinter) designed for freelancers and service providers. It tracks time spent on tasks and automatically calculates the cost based on an hourly rate.
 
-##  Obiettivo
-Il progetto nasce dall'esigenza reale di monitorare i tempi di lavorazione in un negozio di servizi, fornendo un riscontro economico immediato senza calcoli manuali.
+## Goal
+This project was developed to address a real-world need: monitoring task duration in a service shop to provide immediate cost feedback without manual calculations.
 
-##  Features
-* **Cronometro Preciso**: Utilizza il clock di sistema (`time` library) per evitare il drift temporale.
-* **Calcolo in Tempo Reale**: Il costo si aggiorna dinamicamente mentre il tempo scorre.
-* **Interfaccia Intuitiva**: Pulsanti colorati e stati (abilitato/disabilitato) per prevenire errori logici.
-* **Gestione Input**: Supporta formati decimali con punto o virgola.
+## Features
+* **Precise Stopwatch**: Uses the system clock (`time` library) to prevent time drift and ensure accuracy.
+* **Real-Time Calculation**: Costs update dynamically as the timer runs.
+* **Intuitive Interface**: Color-coded buttons and state management (enabled/disabled) help prevent logical errors.
+* **Input Handling**: Supports both dot and comma decimal formats (e.g., 25.50 or 25,50).
 
 ## Tecnologie
 Python 3.x
@@ -17,8 +17,8 @@ Tkinter (GUI)
 
 Autore: Andrea Melissari
 
-##  Come avviare
-Assicurati di avere Python installato.
+##  Execution.
+Make sure you have python installed
 
 ```bash
 python taximeter.py
