@@ -2,6 +2,24 @@
 
 A simple desktop application built with Python (Tkinter) designed for freelancers and service providers. It tracks time spent on tasks and automatically calculates the cost based on an hourly rate.
 
+## Demo
+
+Here is the application in action:
+
+**1. Start Screen**
+Ready to accept the hourly rate.
+![Start Screen](Start.png)
+
+**2. Running**
+The timer tracks time and cost in real-time.
+![Running](Running.png)
+
+**3. Stop & Result**
+Final calculation after the job is done.
+![Stop Screen](Stop.png)
+
+---
+
 ## Goal
 This project was developed to address a real-world need: monitoring task duration in a service shop to provide immediate cost feedback without manual calculations.
 
@@ -11,19 +29,12 @@ This project was developed to address a real-world need: monitoring task duratio
 * **Intuitive Interface**: Color-coded buttons and state management (enabled/disabled) help prevent logical errors.
 * **Input Handling**: Supports both dot and comma decimal formats (e.g., 25.50 or 25,50).
 
-## Tecnologie
-Python 3.x
-Tkinter (GUI)
+##  Technologies
+* Python 3.x
+* Tkinter (GUI)
 
-Autore: Andrea Melissari
-
-##  Execution.
-Make sure you have python installed
+##  Execution
+Make sure you have Python installed.
 
 ```bash
 python taximeter.py
-
-
-
-
-
